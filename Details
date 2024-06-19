@@ -1,0 +1,42 @@
+MS ACCESS
+
+What can Access Databases do ?
+An Access DB organizes and stores your data. It wraps your data in a customized application to streamline data entry and retrieval.
+
+What makes up an Access DB ?
+Efficiently moving data in/out.
+Maintaining the validity and consistency  of the data.
+Performing analysis and generating statistics.
+Creating organized reports.
+Automating repetitive tasks.
+
+What are Tables?
+Store data organized into records(rows) and fields(columns).
+
+What are Queries?
+Gather records for analysis or further processing. 
+	
+What are Forms?
+Interact with your DB and allow efficient data entry.
+
+What are reports?
+Prepare your data for export or printing 
+
+What are Macros?
+Automate processes and control interactivity. 
+
+What are Object Views?
+Data-oriented views for interacting with the data: 
+Datasheet view 
+Form view 
+Report view 
+Print Preview 
+
+Structure-oriented views for creating functionality: 
+Design View 
+Layout View 
+SQL View 
+
+Benefits of a Relational Database:
+Removes redundant information 
+Prevents the need to restructure tables to accommodate growth. 
